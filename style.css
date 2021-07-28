@@ -2,15 +2,31 @@ html{
     background-color:black 
 }
 
-h1{ 
+h1{  
+
     background-color: blueviolet; 
     color:darkorange ;
     padding:15px; 
     font-size:60px;  
-     
+     text-align:center
     
     
+}  
+
+#bulbasaur_container{ 
+    background-color:darkgreen; 
+    font-style:inherit;
+    font-family: Copperplate, fantasy;
+}
+
+#charmander_container{ 
+    background-color:darkorange;
+    font-family: "Lucida Console";
 } 
 
+#squirtle_container{ 
+    background-color:darkturquoise
+
+}
 
 
